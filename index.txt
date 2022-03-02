@@ -1,0 +1,21 @@
+<html>
+<frameset rows=10%,80%,*>
+<frame src ="index01.html"  name=1 >
+<frameset cols=15%,*>
+<frame name=2 >
+<frameset cols=85%,*>
+<frame name=3 >
+<frame name=4 >
+
+</frameset>
+</frameset>
+<frame name=5 >
+
+<noframe>
+</noframe>
+          <body>
+          </body>
+</html>
+
+
+

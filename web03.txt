@@ -1,0 +1,24 @@
+<html>
+
+<body background="พื้นหลัง.JPG">
+<center>
+
+<br><a href="https://th-th.facebook.com/" target="_blank">
+<img src="facebook.png" width="77" height="77"></a><br> <br> <br> <br>
+
+<a href="https://line.me/th/" target="_blank">
+<img src="line.png" width="77" height="77"></a><br><br> <br> <br>
+
+<a href="https://www.google.co.th/?hl=th" target="_blank">
+<img src="google.png" width="77" height="77"></a><br><br> <br> <br>
+
+<a href="https://www.niets.or.th/th/catalog/view/241" target="_blank">
+<img src="onet.png" width="140" height="77"></a><br><br> <br> <br>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="ig.png" width="77" height="77"></a><br><br> <br> <br>
+
+</center>
+</body>
+
+</html>

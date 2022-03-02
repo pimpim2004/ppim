@@ -1,0 +1,10 @@
+</head>
+
+<body bgcolor="#CCFFFF"> 
+<center> <img src="เอกสาร1.jpg"width="150" height="150">
+       <font size="6">PHIMLUK. webpage</font>
+      <img src="สามี.jpg"width="140" height="140">
+</center>
+</body>
+
+</html>
